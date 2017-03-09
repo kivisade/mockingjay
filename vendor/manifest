@@ -2,6 +2,12 @@
 	"version": 0,
 	"dependencies": [
 		{
+			"importpath": "gopkg.in/yaml.v2",
+			"repository": "https://gopkg.in/yaml.v2",
+			"revision": "a5b47d31c556af34a302ce5d659e6fea44d90de0",
+			"branch": "v2"
+		},
+		{
 			"importpath": "github.com/davecgh/go-spew",
 			"repository": "https://github.com/davecgh/go-spew",
 			"revision": "346938d642f2ec3594ed81d874461961cd0faa76",
